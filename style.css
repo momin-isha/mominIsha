@@ -1,0 +1,10 @@
+body { background-image: url('lovephoto0.webp'); 
+    background-size: cover; /* Ensures the image covers the entire background */ 
+    background-repeat: no-repeat; /* Prevents the image from repeating */ 
+    background-position: center; /* Centers the image */ 
+    background-attachment: fixed; /* Keeps the image fixed during scrolling */ } /* Media queries for mobile devices */ 
+    @media (max-width: 768px) { /* Tablets and below */ 
+        body { background-size: cover; /* Ensures the image still covers the background */ } } 
+        @media (max-width: 480px) { /* Mobile phones */ body { background-size: cover; /* Ensures the image still covers the background */ }}
+h1 { text-align: center;}
+h3 { text-align: center;}
