@@ -1,1 +1,1 @@
-alert("welcome to MOMINxISHA website")
+alert("This website is dedicated for our love")
